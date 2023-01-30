@@ -1,5 +1,5 @@
 </br>
-<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unreal_Plugin/blob/main/resources/HisPlayer Unreal Github (1).png"  width="100%" height="100%"></a>
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unreal_Plugin/blob/main/resources/unrealvideostreaming.gif"  width="100%" height="100%"></a>
 </p>
 </br>
 
