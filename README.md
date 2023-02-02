@@ -118,7 +118,7 @@ Timed Metadata:
 
 The goals of this repository are:
 - Show example of new use cases with video streaming inside Unreal project
-- Solve native Unreal Media Player's limitation
+- Remove native Unreal Media Player's limitation
 - Merge Gaming with OTT video streaming industry 
 - Grant new way of monetization with video ads in Web3-enabled showrooms and events
 
