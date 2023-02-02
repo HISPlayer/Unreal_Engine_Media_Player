@@ -114,9 +114,9 @@ Timed Metadata:
 <br>
 <p>
   
-## Goal:
+## Goals:
 
-The goal of this repository are:
+The goals of this repository are:
 - Show example of new use cases with video streaming inside Unreal project
 - Solve native Unreal Media Player's limitation
 - Merge Gaming with OTT video streaming industry 
