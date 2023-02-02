@@ -1,93 +1,136 @@
 </br>
-<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unreal_Plugin/blob/main/resources/unreal engine.png"  width="100%" height="100%"></a>
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unreal_Plugin/blob/main/resources/ue.png"  width="100%" height="100%"></a>
 </p>
 </br>
 
-HisPlayer for Unreal Engine is a video streaming plugin that enables HLS & DASH streaming on Android, iOS, HTML5 / Web and Windows apps and games. 
-HisPlayer supports Unreal Pixel Streaming. It allows to create interactive video content within Unreal Engine project and stream it to any device with Pixel Streaming.
-HisPlayer will be available for **more platforms** soon, stay tuned.
+Advanced <a href="blue">`Unreal Engine Media Player SDK`</a> for premium Unreal Games & Metaverse services.
 
-Our Unreal media player plugin enables the introduction of new exciting use cases inside your Unreal games, such as concerts, video items related to the game or new metaverse experiences.
-* Stream Amazon IVS inside Unreal Engine and bring advanced interactivity
-* Live streaming inside Unreal games and apps
+The only `Unreal Video Streaming Plugin` that supports video on demand (VoD) and live video streaming with HLS and DASH formats on Android, iOS, HTML5/webGL and Windows. 
 
-This repository contains the HisPlayer for Unreal media player's feature list as well as an installation guide. If you want to try a demo and see the full documentation, please contact us at admin@hisplayer.com
+It opens the possibility to create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment inside Unreal games.
 
-## Table of Contents
+## Immersive experience 
 
-* Features 
-* Supported Platforms
+<p align="center">Include high quality video streaming into Unreal games and metaverse</p>
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="100%" height="100%"></a>
 
-## Features
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="100%" alt="1.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Video_Streaming_Plugin/blob/main/resources/1.gif"> Live streaming in Metaverse | <img width="100%" alt="2.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/2.gif"> In-game electronic dance music|<img width="100%" alt="3.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/3.gif"> Party together at live events|
 
-The HisPlayer for Unreal Engine video streaming player is developed entirely in-house, making it fully customizable to implement any desired functionality. Don't hesitate to contact us if you need specific features not supported yet.
 
-We support the following features:
 
-<table>
- <tbody style="text-align:center;">
-   <tr>
-     <td valign="top" style="text-align:center;">
-         <p style="max-width:100%;"><b>Overview</b></p>
-     </td>
-     <td>
-       <ul>
-       <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
-       <li>Amazon IVS</li>
-       <li>Unreal Pixel Streaming</li>
-       <li>Timed Metadata</li>
-       <li>ID3 Tag</li>
-       <li>Ad Insertion</li>
-       <li>360 Video Playback and Virtual Reality (VR)</li>
-       <li>Windows Editor (C++ & Blueprint)</li>
-       <li>Up to 8K (UHD) Resolution</li>
-       <li>Up to 60 Frames Per Second (FPS)</li>
-       <li>Rendering Videos on 3D Objects</li>
-       </ul>
-     </td>
-        <tr>
-            <td valign="top" style="text-align:center;">
-            <p style="max-width:100%;"><b>Basic Features</b></p>
-     </td>
-     <td>
-       <ul>
-        <li>Open Video Content</li>
-        <li>Play / Pause</li>
-        <li>Stop</li>
-        <li>Loop</li>
-        <li>AutoPlay</li>
-        <li>Mute</li>
-        <li>Close</li>
-       </ul>
-     </td>
-     </tr>
-   </tr>
- </tbody>
-</table>
+<br>
+<p>
 
-## Supported Platforms
+<a href="red">Supported Platforms & Streaming Formats:</a>
 
-| Platform | Supported Graphics APIs | HLS | DASH | 
-| :-----:| :-----:| :-----:| :-----:| 
-| Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | 
-| iOS  | Metal | :heavy_check_mark: | :heavy_check_mark: | 
-| Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | 
-| Android VR  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: |
-| HTML5  | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: |
+*With our Unreal Video Streaming Player, you can bring high quality and seamless video playback experience across multiple platforms.*
 
-## Supported Unreal Engine Versions
+| | Android | iOS | WebGL | Windows |
+| --- | --- | --- | --- | --- | 
+| HLS | &check; | &check; | &check; | &check; | 
+| DASH | &check; | | &check; | &check; |
 
-| Platform | 4.22 | 4.23 | 4.24 | 4.25 | 4.26 | 4.27 | 5.0 |
-| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| 
-| Android  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| iOS  |||||| :heavy_check_mark: ||
-| Windows | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| HTML5  | :heavy_check_mark: | :heavy_check_mark: ||||||
+
+<br>
+<p>
+
+
+<a href="red">Unreal Engine Versions:</a> 
+
+| | Android | iOS | WebGL | Windows |
+| --- | --- | --- | --- | --- | 
+| 4.22 | &check; | &check; | &check; | &check; | 
+| 4.23 | &check; | &check; | &check; | &check; |
+| 4.24 | &check; | &check; |  | &check; | 
+| 4.25 | &check; | &check; | | &check; |
+| 4.26 | &check; | &check; | | &check; | 
+| 4.27 | &check; | &check; |  | &check; |
+| 5.0 | &check; | &check; |  | &check; | 
+| 5.1 | &check; | &check; | | &check; |
+
+
+<a href="red">Supported Graphics APIs:</a>
+- Android
+  -  `OpenGLES2` & `OpenGLES3`
+- iOS
+  -  `Metal`
+- webGL/HTML5
+  -  `WebGL 1.0` & `WebGL 2.0`
+- Windows 
+  - `DirectX11` & `DirectX12`
+
+
+  
+
+<br>
+
+## Features Overview
+
+```html
+Streaming formats:
+```
+- HLS 
+- DASH
+
+<br>
+
+```html
+Editor:
+```
+- Windows Editor
+  
+<br>
+
+```html
+Playback and Streaming Features:
+```
+- Auto Playback 
+- Play / Pause / Stop
+- Seek
+- Mute
+- Loop Playback
+- Close
+- Rendering Videos on 2D & 3D Objects
+- HLS and DASH streaming with Adaptive Bitrate (ABR) 
+- 8K (UHD) Video 
+- Up to 60 Frames Per Second (FPS)
+- C++ & Blueprint
+- Video Ad Insertion 
+- Pixel Streaming with Unreal Engine
+- Amazon IVS (Interactive Video Service)
+- Mono, Stereo 360 video playback and VR
+- Subtitles and Closed Captions:
+
+
+<br>
+
+```html
+Timed Metadata:
+```
+- ID3 tags with Amazon IVS
+
+<br>
+<p>
+  
+## Goal:
+
+The goal of this repository are:
+- Show example of new use cases with video streaming inside Unreal project
+- Solve native Unreal Media Player's limitation
+- Merge Gaming with OTT video streaming industry 
+- Grant new way of monetization with video ads in Web3-enabled showrooms and events
 
 
 ## Contact
 [admin@hisplayer.com](mailto:admin@hisplayer.com)
-<br>See you at trade shows around the world!
+
+<br> 
+<p>
+
+
+
 
 <br>
 <sub><sup>Android media player plugin for Unreal Engine, Unreal marketplace, Windows media player plugin for Unreal Engine, Media Player plugin for Unreal Engine, Stream live performances and media into your Unreal project, HLS and DASH streaming within Unreal Engine, Unreal Engine Video Streaming, UE4 live streaming, UE5 live streaming, web3, real-time 3D world, Unreal Engine 4 HTML5, NFT, cryptocurrency, web3 gaming and entertainment, blockchain, Electra Media Player, Media player plugin for Unreal, Unreal Engine 4, Unreal web, UE4, Unreal Engine 5, Epic games, Oculus Quest, Oculus Quest 2, Meta Oculus, Gear VR, HTC Vive, Google Cardboard, Daydream, Pico Goblin & Neo, electronic dance music, metaverse, AR, VR, XR, Amazon Interactive Video Service, Amazon IVS Unreal, timed metadata, embed metadata, metadata, ID3 tags, timestamps, Azure PlayFab, webbrowser, webGL, HTML5, unreal web player, unreal html5 video, Twitch.</sub><sup>
