@@ -5,7 +5,7 @@
 
 Advanced <a href="blue">`Unreal Engine Media Player SDK`</a> for premium Unreal Games & Metaverse services.
 
-The only `Unreal Video Streaming Plugin` that supports video on demand (VoD) and live video streaming with HLS and DASH formats on Android, iOS, HTML5/webGL and Windows. 
+The only `Unreal Video Streaming Plugin` that supports video on demand (VoD) and live video streaming with HLS and DASH formats on Android, iOS, WebGL/HTML5 and Windows. 
 
 It opens the possibility to create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment inside Unreal games.
 
@@ -56,7 +56,7 @@ It opens the possibility to create truly interactive, immersive metaverse experi
   -  `OpenGLES2` & `OpenGLES3`
 - iOS
   -  `Metal`
-- webGL/HTML5
+- WebGL/HTML5
   -  `WebGL 1.0` & `WebGL 2.0`
 - Windows 
   - `DirectX11` & `DirectX12`
