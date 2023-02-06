@@ -94,6 +94,7 @@ Playback and Streaming Features:
 - Close
 - Rendering Videos on 2D & 3D Objects
 - HLS and DASH streaming with Adaptive Bitrate (ABR) 
+- Advanced ABR control
 - 8K (UHD) Video 
 - Up to 60 Frames Per Second (FPS)
 - C++ & Blueprint
