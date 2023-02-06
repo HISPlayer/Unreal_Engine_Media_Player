@@ -110,7 +110,8 @@ Playback and Streaming Features:
 ```html
 Timed Metadata:
 ```
-- ID3 tags with Amazon IVS
+- ID3 tags
+  -  Amazon IVS with ID3 timed metadata
 
 <br>
 <p>
