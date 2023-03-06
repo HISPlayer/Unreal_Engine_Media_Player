@@ -133,7 +133,7 @@ The goals of this repository are:
 
 
 ## Contact
-[admin@hisplayer.com](mailto:admin@hisplayer.com)
+[contact@hisplayer.com](mailto:contact@hisplayer.com)
 
 <br> 
 <p>
