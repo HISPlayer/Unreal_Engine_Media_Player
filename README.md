@@ -74,6 +74,14 @@ Streaming formats:
 - HLS 
 - DASH
 
+```html
+Third Party Technologies:
+```
+- Amazon IVS (Interactive Video Service)
+- Pixel Streaming with Unreal Engine
+  - Include video streaming into your project and run your Unreal Engine application on a server in the cloud to any device
+
+
 <br>
 
 ```html
@@ -99,8 +107,6 @@ Playback and Streaming Features:
 - Up to 60 Frames Per Second (FPS)
 - C++ & Blueprint
 - Video Ad Insertion 
-- Pixel Streaming with Unreal Engine
-- Amazon IVS (Interactive Video Service)
 - Mono, Stereo 360 video playback and VR
 - Subtitles and Closed Captions:
 
@@ -110,6 +116,7 @@ Playback and Streaming Features:
 ```html
 Timed Metadata:
 ```
+
 - ID3 tags
   -  Amazon IVS with ID3 timed metadata
 
