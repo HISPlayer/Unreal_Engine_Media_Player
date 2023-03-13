@@ -3,133 +3,90 @@
 </p></h1>
 </br>
 
-<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/resources/Bring video streaming into Unreal, make your game alive.gif"  width="100%" height="100%"></a>
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/blob/main/resources/Bring video streaming into Unreal.gif"  width="100%" height="100%"></a>
 
-Advanced <a href="blue">`Unreal Engine Media Player SDK`</a> for premium Unreal Games & Metaverse services.
+HISPlayer is the most advanced video streaming player for Unreal Engine. HISPlayer's Unreal Engine enables video streaming plugin enables **HLS & DASH streaming** inside your games and metaverses on **Android**, **iOS**, **HTML5** / **Web** and **Windows**.
 
-The only `Unreal Video Streaming Plugin` that supports video on demand (VoD) and live video streaming with HLS and DASH formats on Android, iOS, WebGL/HTML5 and Windows. 
-
-It opens the possibility to create truly interactive, immersive metaverse experiences for live events, sports, betting, e-learning and entertainment inside Unreal games.
-
-## Immersive experience 
+This repository showcases the HISPlayer for Unreal feature list as well as an supported platforms. If you want to try a demo and see the full documentation, please contact us at our [website](https://www.hisplayer.com/demo-gaming/)
 
 
-<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/resources/Bring video streaming into Unreal, make your game alive.gif"  width="100%" height="100%"></a>
+## Table of Contents
+
+* **[Features](#features)**  
+
+* **[Supported Platforms](#supported-platforms)**
 
 
+ <br> 
 
+<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal video streaming plugin enables the introduction of new exciting use cases inside your Unreal Engine projects, such as live concerts, video items related to the game or new metaverse experiences. </p>
 
+## Features
 
-<br>
-<p>
+HISPlayer's Unreal Engine video streaming player is fully customizable and can implement any desired functionality. 
+Don't hesitate to contact us if you need specific and dadvanced features not supported yet.
 
-<a href="red">Supported Platforms & Streaming Formats:</a>
+We support the following features:
 
-*With our Unreal Video Streaming Player, you can bring high quality and seamless video playback experience across multiple platforms.*
+<table>
+ <tbody style="text-align:center;">
+   <tr>
+     <td valign="top" style="text-align:center;">
+         <p style="max-width:100%;"><b>Overview</b></p>
+     </td>
+     <td>
+       <ul>
+       <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
+       <li>Amazon IVS</li>
+       <li>Unreal Pixel Streaming</li>
+       <li>Timed Metadata</li>
+       <li>ID3 Tag</li>
+       <li>Ad Insertion</li>
+       <li>360 Video Playback and Virtual Reality (VR)</li>
+       <li>Windows Editor (C++ & Blueprint)</li>
+       <li>Up to 8K (UHD) Resolution</li>
+       <li>Up to 60 Frames Per Second (FPS)</li>
+       <li>Rendering Videos on 3D Objects</li>
+       </ul>
+     </td>
+        <tr>
+            <td valign="top" style="text-align:center;">
+            <p style="max-width:100%;"><b>Basic Features</b></p>
+     </td>
+     <td>
+       <ul>
+        <li>Open Video Content</li>
+        <li>Play / Pause</li>
+        <li>Stop</li>
+        <li>Loop</li>
+        <li>AutoPlay</li>
+        <li>Mute</li>
+        <li>Close</li>
+       </ul>
+     </td>
+     </tr>
+   </tr>
+ </tbody>
+</table>
 
-| | Android | iOS | WebGL | Windows |
-| --- | --- | --- | --- | --- | 
-| HLS | &check; | &check; | &check; | &check; | 
-| DASH | &check; | | &check; | &check; |
+## Supported Platforms
 
+| Platform | Supported Graphics APIs | HLS | DASH | 
+| :-----:| :-----:| :-----:| :-----:| 
+| Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | 
+| iOS  | Metal | :heavy_check_mark: |  | 
+| Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | 
+| Android VR  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: |
+| HTML5  | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: |
 
-<br>
-<p>
+## Supported Unreal Engine Versions
 
-
-<a href="red">Unreal Engine Versions:</a> 
-
-| | Android | iOS | WebGL | Windows |
-| --- | --- | --- | --- | --- | 
-| 4.22 | &check; | &check; | &check; | &check; | 
-| 4.23 | &check; | &check; | &check; | &check; |
-| 4.24 | &check; | &check; |  | &check; | 
-| 4.25 | &check; | &check; | | &check; |
-| 4.26 | &check; | &check; | | &check; | 
-| 4.27 | &check; | &check; |  | &check; |
-| 5.0 | &check; | &check; |  | &check; | 
-| 5.1 | &check; | &check; | | &check; |
-
-
-<a href="red">Supported Graphics APIs:</a>
-- Android
-  -  `OpenGLES2` & `OpenGLES3`
-- iOS
-  -  `Metal`
-- WebGL/HTML5
-  -  `WebGL 1.0` & `WebGL 2.0`
-- Windows 
-  - `DirectX11` & `DirectX12`
-
-
-  
-
-<br>
-
-## Features Overview
-
-```html
-Streaming formats:
-```
-- HLS 
-- DASH
-
-```html
-Third Party Technologies:
-```
-- Amazon IVS (Interactive Video Service)
-- Pixel Streaming with Unreal Engine
-  - Include video streaming into your project and run your Unreal Engine application on a server in the cloud to any device
-
-
-<br>
-
-```html
-Editor:
-```
-- Windows Editor
-  
-<br>
-
-```html
-Playback and Streaming Features:
-```
-- Auto Playback 
-- Play / Pause / Stop
-- Seek
-- Mute
-- Loop Playback
-- Close
-- Rendering Videos on 2D & 3D Objects
-- HLS and DASH streaming with Adaptive Bitrate (ABR) 
-- Advanced ABR control
-- 8K (UHD) Video 
-- Up to 60 Frames Per Second (FPS)
-- C++ & Blueprint
-- Video Ad Insertion 
-- Mono, Stereo 360 video playback and VR
-- Subtitles and Closed Captions:
-
-
-<br>
-
-```html
-Timed Metadata:
-```
-
-- ID3 tags
-  -  Amazon IVS with ID3 timed metadata
-
-<br>
-<p>
-  
-## Goals:
-
-The goals of this repository are:
-- Show example of new use cases with video streaming inside Unreal project
-- Remove native Unreal Media Player's limitation
-- Merge Gaming with OTT video streaming industry 
-- Grant new way of monetization with video ads in Web3-enabled showrooms and events
+| Platform | 4.22 | 4.23 | 4.24 | 4.25 | 4.26 | 4.27 | 5.0 |
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| 
+| Android  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| iOS  |||||| :heavy_check_mark: ||
+| Windows | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| HTML5  | :heavy_check_mark: | :heavy_check_mark: ||||||
 
 
 ## Contact
