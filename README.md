@@ -1,7 +1,9 @@
-</br>
+<h1 style="line-height:2;">
 <p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unreal_Plugin/blob/main/resources/Unreal_Github.png"  width="100%" height="100%"></a>
-</p>
+</p></h1>
 </br>
+
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/resources/Bring video streaming into Unreal, make your game alive.gif"  width="100%" height="100%"></a>
 
 Advanced <a href="blue">`Unreal Engine Media Player SDK`</a> for premium Unreal Games & Metaverse services.
 
@@ -11,12 +13,10 @@ It opens the possibility to create truly interactive, immersive metaverse experi
 
 ## Immersive experience 
 
-<p align="center">Include high quality video streaming into Unreal games and metaverse</p>
-<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/Unity_video_streaming.gif"  width="100%" height="100%"></a>
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="100%" alt="1.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Video_Streaming_Plugin/blob/main/resources/1.gif"> Live streaming in Metaverse | <img width="100%" alt="2.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/2.gif"> In-game electronic dance music|<img width="100%" alt="3.gif" src="https://github.com/HisPlayer/HisPlayer_Unity_Plugin/blob/main/resources/3.gif"> Party together at live events|
+<p align="center" style="border-style:solid"><a rel="noopener noreferrer"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/resources/Bring video streaming into Unreal, make your game alive.gif"  width="100%" height="100%"></a>
+
+
 
 
 
