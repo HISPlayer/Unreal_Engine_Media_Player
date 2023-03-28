@@ -22,7 +22,7 @@ This repository showcases the HISPlayer video streaming player for Unreal Engine
 
 ## Features
 
-HISPlayer's Unreal Engine video streaming player is fully customizable and offers the possibilty to implement any desired functionality. 
+HISPlayer's Unreal Engine video streaming player is fully customizable and offers the possibility to implement any desired functionality. 
 Don't hesitate to contact us if you need specific and advanced features not supported yet.
 
 We support the following features:
