@@ -6,7 +6,7 @@
 
 HISPlayer is the most advanced video streaming player for Unreal Engine. HISPlayer's Unreal Engine video streaming plugin enables **HLS & DASH streaming** inside your games and metaverses on **Android**, **iOS**, **HTML5** / **Web** and **Windows**.
 
-This repository showcases the HISPlayer video streaming player for Unreal Engine features list as well as supported platforms. If you want to try a demo and see the full documentation, please contact us at our [website](https://www.hisplayer.com/demo-gaming/)
+This repository showcases the HISPlayer's Unreal Engine media player features list as well as supported platforms. If you want to try a demo of latest player library, complete with full documentation, please contact us at our [website](https://www.hisplayer.com/demo-gaming/)
 
 
 ## Table of Contents
@@ -20,10 +20,11 @@ This repository showcases the HISPlayer video streaming player for Unreal Engine
 
 <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video streaming plugin enables the introduction of new exciting use cases inside your Unreal Engine projects, such as live concerts, video items related to the game or new metaverse experiences. </p>
 
-## Features
+## Custom Development
 
-HISPlayer's Unreal Engine video streaming player is fully customizable and offers the possibility to implement any desired functionality. 
-Don't hesitate to contact us if you need specific and advanced features not supported yet.
+Our Unreal Engine video streaming plugin is completely customizable, allowing you to request any desired functionality. If you require specific or advanced features, please don't hesitate to contact us.
+
+## Features
 
 We support the following features:
 
