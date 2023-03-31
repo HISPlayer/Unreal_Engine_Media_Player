@@ -8,6 +8,13 @@ HISPlayer is the most advanced video streaming player for Unreal Engine. HISPlay
 
 This repository showcases the HISPlayer's Unreal Engine media player features list as well as supported platforms. If you want to try a demo of latest player library, complete with full documentation, please contact us at our [website](https://www.hisplayer.com/demo-gaming/)
 
+<br>
+
+## Custom Development
+
+Our Unreal Engine video streaming plugin is completely customizable, allowing you to request any desired functionality. If you require specific or advanced features, please don't hesitate to contact us.
+
+<br>
 
 ## Table of Contents
 
@@ -15,14 +22,14 @@ This repository showcases the HISPlayer's Unreal Engine media player features li
 
 * **[Supported Platforms](#supported-platforms)**
 
+* **[Unreal Engine Versions](#unreal-engine-versions)**
+
 
  <br> 
 
 <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video streaming plugin enables the introduction of new exciting use cases inside your Unreal Engine projects, such as live concerts, video items related to the game or new metaverse experiences. </p>
 
-## Custom Development
-
-Our Unreal Engine video streaming plugin is completely customizable, allowing you to request any desired functionality. If you require specific or advanced features, please don't hesitate to contact us.
+<br>
 
 ## Features
 
@@ -69,6 +76,8 @@ We support the following features:
  </tbody>
 </table>
 
+<br>
+
 ## Supported Platforms
 
 | Platform | Supported Graphics APIs | HLS | DASH | 
@@ -79,7 +88,9 @@ We support the following features:
 | Android VR  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: |
 | HTML5  | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: |
 
-## Supported Unreal Engine Versions
+<br>
+
+## Unreal Engine Versions
 
 | Platform | 4.22 | 4.23 | 4.24 | 4.25 | 4.26 | 4.27 | 5.0 |
 | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| 
@@ -88,6 +99,7 @@ We support the following features:
 | Windows | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | HTML5  | :heavy_check_mark: | :heavy_check_mark: ||||||
 
+<br>
 
 ## Contact
 [contact@hisplayer.com](mailto:contact@hisplayer.com)
