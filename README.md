@@ -93,7 +93,7 @@ We support the following features:
 
 ## Unreal Engine Versions
 
-| Platform | 4.22 | 4.23 | 4.24 | 4.25 | 4.26 | 4.27 | 5.0 | 5.1.1
+| Platform | UE 4.22 | UE 4.23 | UE 4.24 | UE 4.25 | UE 4.26 | UE 4.27 | UE 5.0 | UE 5.1
 | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| 
 | Android  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | iOS  |||||| :heavy_check_mark: || 
