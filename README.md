@@ -50,7 +50,7 @@ We support the following features:
        <ul>
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>Amazon IVS</li>
-       <li>Unreal Pixel Streaming</li>
+       <li>Pixel Streaming Unreal Engine</li>
        <li>Timed Metadata</li>
        <li>ID3 Tag</li>
        <li>Ad Insertion</li>
