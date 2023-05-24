@@ -49,14 +49,10 @@ We support the following features:
      <td>
        <ul>
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
-       <li>Amazon IVS</li>
+       <li>Local Video Playback</li>
        <li>Pixel Streaming Unreal Engine</li>
-       <li>Timed Metadata</li>
-       <li>ID3 Tag</li>
-       <li>Ad Insertion</li>
-       <li>360 Video Playback and Virtual Reality (VR)</li>
        <li>Windows Editor (C++ & Blueprint)</li>
-       <li>Up to 8K (UHD) Resolution</li>
+       <li>Up to 4K Resolution</li>
        <li>Up to 60 Frames Per Second (FPS)</li>
        <li>Rendering Videos on 3D Objects</li>
        </ul>
@@ -74,6 +70,8 @@ We support the following features:
         <li>AutoPlay</li>
         <li>Mute</li>
         <li>Close</li>
+        <li>Seek</li>
+        <li>Volume</li>
        </ul>
      </td>
      </tr>
@@ -87,22 +85,16 @@ We support the following features:
 
 | Platform | Supported Graphics APIs | HLS | DASH | 
 | :-----:| :-----:| :-----:| :-----:| 
-| Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | 
-| iOS  | Metal | :heavy_check_mark: |  | 
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | 
-| Android VR  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: |
-| HTML5  | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: |
 
 <br>
 
 ## Unreal Engine Versions
 
-| Platform | UE 4.22 | UE 4.23 | UE 4.24 | UE 4.25 | UE 4.26 | UE 4.27 | UE 5.0 | UE 5.1
-| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| 
-| Android  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| iOS  |||||| :heavy_check_mark: || 
-| Windows | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| HTML5  | :heavy_check_mark: | :heavy_check_mark: ||||||
+| Platform | UE 4.22 | UE 4.23 | UE 4.24 | UE 4.25 | UE 4.26 | UE 4.27 | UE 5.0 | UE 5.1 | UE 5.2
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+| Windows | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+
 
 <br>
 
