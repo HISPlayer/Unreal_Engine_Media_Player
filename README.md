@@ -101,6 +101,10 @@ We support the following features:
 
 <br>
 
+## [The Full Documentation](https://hisplayer.github.io/)
+
+<br>
+
 ## Contact
 [contact@hisplayer.com](mailto:contact@hisplayer.com)
 
