@@ -86,7 +86,7 @@ We support the following features:
 
 | Platform | Supported Graphics APIs | HLS | DASH | 
 | :-----:| :-----:| :-----:| :-----:| 
-| Windows | DirectX11 / DirectX12, Vulkan | :heavy_check_mark: | :heavy_check_mark: |
+| Windows | DirectX11 | :heavy_check_mark: | :heavy_check_mark: |
 | Android | OpenGL ES3 | :heavy_check_mark: | :heavy_check_mark: | 
 
 <br>
