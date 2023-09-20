@@ -4,7 +4,7 @@
 
 <p align="center"><p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/blob/main/resources/Bring video streaming into Unreal.gif"  width="100%" height="100%"></a>
 
-HISPlayer is the most advanced video streaming player for Unreal Engine for both VOD and Live contents. HISPlayer plugin enables **HLS & DASH streaming** inside your games and metaverses on **Android**, **iOS**, **HTML5** / **Web** and **Windows**.
+HISPlayer is the most advanced video streaming player for Unreal Engine for both VOD and Live contents. HISPlayer plugin enables **HLS & DASH streaming** inside your games and metaverses on **Android**, **HTML5** / **Web** and **Windows PC**.
 Our Plugin will allow you to include video contents inside your games, securing at the same time the best video quality thanks to technologies like our advanced Adaptive Bitrate (ABR) technology.
 
 This repository showcases the HISPlayer's features list as well as the supported platforms. If you want to try a demo of the latest player library, please contact us at our [website](https://hisplayer.com/unreal-player-sdk/)
@@ -54,6 +54,7 @@ We support the following features:
        <li>Multistream (stream live event from multiple cameras or stream multiple live events simultaneously)</li>
        <li>Windows Editor (C++ & Blueprint)</li>
        <li>Up to 4K Resolution</li>
+       <li>8K (UHD) Resolution (WebGL / HTML5 Game)<li>
        <li>Up to 60 Frames Per Second (FPS)</li>
        <li>Rendering Videos on 3D Objects</li>
        </ul>
@@ -96,7 +97,7 @@ We support the following features:
 | Platform | UE 4.22 | UE 4.23 | UE 4.24 | UE 4.25 | UE 4.26 | UE 4.27 | UE 5.0 | UE 5.1 | UE 5.2
 | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 | Windows | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Android | | | |  | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: |
+| Android | | | |  | | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: |
 
 
 <br>
