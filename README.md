@@ -54,7 +54,7 @@ We support the following features:
        <li>Multistream (stream live event from multiple cameras or stream multiple live events simultaneously)</li>
        <li>Windows Editor (C++ & Blueprint)</li>
        <li>Up to 4K Resolution</li>
-       <li>8K (UHD) Resolution (WebGL / HTML5 Game)<li>
+        <li>8K Resolution (WebGL / HTML5)</li>
        <li>Up to 60 Frames Per Second (FPS)</li>
        <li>Rendering Videos on 3D Objects</li>
        </ul>
