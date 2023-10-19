@@ -95,10 +95,10 @@ We support the following features:
 
 ## Unreal Engine Versions
 
-| Platform | UE 4.22 | UE 4.23 | UE 4.24 | UE 4.25 | UE 4.26 | UE 4.27 | UE 5.0 | UE 5.1 | UE 5.2
-| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-| Windows | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Android | | | |  | | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: |
+| Platform | UE 4.24 | UE 4.25 | UE 4.26 | UE 4.27 | UE 5.0 | UE 5.1 | UE 5.2 | UE 5.3 |
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| 
+| Windows | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Android | | | | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 
 
 <br>
