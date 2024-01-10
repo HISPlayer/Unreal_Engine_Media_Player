@@ -32,7 +32,7 @@ Our Unreal Engine video streaming plugin is completely customizable, allowing yo
 
  <br> 
 
-<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video streaming plugin enables the introduction of new exciting use cases inside your Unreal Engine projects, such as live concerts, video items related to the game or new metaverse experiences. </p>
+<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video streaming plugin enables the introduction of new exciting use cases inside your Unreal Engine projects, such as live concerts, video items related to the game or new metaverse experiences. The HISPlayer Media Framework in Unreal Engine. </p>
 
 <br>
 
