@@ -85,10 +85,10 @@ We support the following features:
 
 ## Supported Platforms
 
-| Platform | Supported Graphics APIs | HLS | DASH | 
-| :-----:| :-----:| :-----:| :-----:| 
+| Platform | Supported Graphics APIs | HLS | DASH | DRM |
+| :-----:| :-----:| :-----:| :-----:| :-----:| 
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: |
-| Android | OpenGL ES3 | :heavy_check_mark: | :heavy_check_mark: |
+| Android | OpenGL ES3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | HTML5 | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: | 
 
 <br>
