@@ -101,7 +101,7 @@ We support the following features:
 | Android | | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
 | HTML5 Platform | :heavy_check_mark: | | |  | | |  | :heavy_check_mark: |
 
-If you need our Player Plugin for another Unreal Engine version, let us know. 
+If you need our Video Player Plugin for another Unreal Engine version, let us know. 
 
 <br>
 
