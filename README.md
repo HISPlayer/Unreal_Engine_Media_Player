@@ -4,10 +4,10 @@
 
 <p align="center"><p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/blob/main/resources/Bring video streaming into Unreal.gif"  width="100%" height="100%"></a>
 
-HISPlayer is the most advanced video streaming player for Unreal Engine for both VOD and Live contents. HISPlayer plugin enables **HLS & DASH streaming** inside your games and metaverses on **Android**, **HTML5** / **Web** and **Windows PC**.
+HISPlayer is the most advanced video streaming player for Unreal Engine for both VOD and Live contents. HlSPlayer plugin enables **HLS & DASH streaming** inside your games and metaverses on **Android**, **HTML5** / **Web** and **Windows PC**.
 Our Plugin will allow you to include video contents inside your games, securing at the same time the best video quality thanks to technologies like our advanced Adaptive Bitrate (ABR) technology.
 
-This repository showcases the HISPlayer's features list as well as the supported platforms. If you want to try a demo of the latest player library, please contact us at our [website](https://hisplayer.com/unreal-player-sdk/)
+This repository showcases the HlSPlayer's features list as well as the supported platforms. If you want to try a demo of the latest player library, please contact us at our [website](https://hisplayer.com/unreal-player-sdk/)
 
 <br>
 
@@ -32,7 +32,7 @@ Our Unreal Engine video streaming plugin is completely customizable, allowing yo
 
  <br> 
 
-<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video streaming plugin enables the introduction of new exciting use cases inside your Unreal Engine projects, such as live concerts, video items related to the game or new metaverse experiences. The HISPlayer Media Framework in Unreal Engine. </p>
+<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video streaming plugin enables the introduction of new exciting use cases inside your Unreal Engine projects, such as live concerts, video items related to the game or new metaverse experiences. The HlSPlayer Media Framework in Unreal Engine. </p>
 
 <br>
 
