@@ -89,6 +89,7 @@ We support the following features:
 | :-----:| :-----:| :-----:| :-----:| :-----:| 
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: |
 | Android | OpenGL ES3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Android | Metal | :heavy_check_mark: |  |  |
 | HTML5 | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: | 
 
 <br>
@@ -99,6 +100,7 @@ We support the following features:
 | :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| 
 | Windows |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Android | | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
+| iOS | | |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
 | HTML5 Platform | :heavy_check_mark: | | |  | | |  | :heavy_check_mark: |
 
 If you need our Video Player Plugin for another Unreal Engine version, let us know. 
