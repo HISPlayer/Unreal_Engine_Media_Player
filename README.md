@@ -1,4 +1,4 @@
-<h1 style="line-height:2;"><p align="center"><a href="https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unreal_Plugin/blob/main/resources/Unreal github.png"  width="100%" height="100%"></a>
+<h1 style="line-height:2;"><p align="center"><a href="https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unreal_Plugin/blob/main/resources/UE logos.png"  width="100%" height="100%"></a>
 </p></h1>
 </br>
 
