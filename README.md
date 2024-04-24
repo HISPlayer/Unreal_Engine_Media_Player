@@ -13,7 +13,7 @@ This repository showcases the HlSPlayer's features list as well as the supported
 
 ## Custom Development
 
-Our Unreal Engine video streaming plugin is completely customizable, allowing you to request any desired functionality. If you require specific features and premium customer support, please [contact us here](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/).
+Our Unreal Engine video streaming plugin is completely customizable, allowing you to request any desired functionality. If you require specific, advanced features and premium customer support, please [contact us here](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/).
 
 <p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HISPlayer/Unreal_Engine_Media_Player/blob/main/resources/streamvideounreal.gif"  width="80%" height="80%"></a>
 <p align="center">Include high quality video streaming into your Unreal Engine games</p>
