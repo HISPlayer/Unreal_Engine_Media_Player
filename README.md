@@ -54,8 +54,7 @@ We support the following features:
        <li>Local Video Playback</li>
        <li>Pixel Streaming Unreal Engine</li>
        <li>Multistream (stream live event from multiple cameras or stream multiple live events simultaneously)</li>
-       <li>Windows Editor (C++ & Blueprint)</li>
-       <li>MacOS Editor (C++ & Blueprint)</li>
+       <li>Windows & MacOS Editor (C++ & Blueprint)</li>
        <li>4K Resolution</li>
         <li>8K Resolution (WebGL / HTML5)</li>
        <li>Up to 60 Frames Per Second (FPS)</li>
