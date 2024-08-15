@@ -63,12 +63,14 @@ We support the following features:
        <li>Multistream (stream live event from multiple cameras or stream multiple live events simultaneously)</li>
        <li>Windows & MacOS Editor (C++ & Blueprint)</li>
        <li>4K Resolution</li>
-        <li>8K Resolution (WebGL / HTML5)</li>
+        <li>8K Resolution</li>
        <li>Up to 60 Frames Per Second (FPS)</li>
        <li>Rendering Videos on 3D Objects</li>
        <li>Stereoscopic 3D videos</li>
-       <li>180, 360 Mono and Stereo videos</li>
+       <li>VR and 180, 360 Mono, (3d) Stereo videos</li>
        <li>Vulkan rendering support (Android, Meta Quest…)</li>
+       <li>Low Latency HLS (LL HLS)</li>
+       <li>Low Latency DASH (LL DASH)</li>
        </ul>
      </td>
         <tr>
