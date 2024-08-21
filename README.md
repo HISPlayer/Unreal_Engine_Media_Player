@@ -57,8 +57,10 @@ We support the following features:
        <ul>
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>DRM Protection (Android)</li>
+       <li>Widevine DRM</li>
        <li>HTTP Progressive MP4</li>
        <li>Local Video Playback</li>
+       <li>Live streaming and video on demand (VOD) support</li>
        <li>Pixel Streaming Unreal Engine</li>
        <li>Multistream (stream live event from multiple cameras or stream multiple live events simultaneously)</li>
        <li>Windows & MacOS Editor (C++ & Blueprint)</li>
@@ -67,8 +69,8 @@ We support the following features:
        <li>Up to 60 Frames Per Second (FPS)</li>
        <li>Rendering Videos on 3D Objects</li>
        <li>Stereoscopic 3D videos</li>
-       <li>VR and 180, 360 Mono, (3d) Stereo videos</li>
-       <li>Vulkan rendering support (Android, Meta Quest…)</li>
+       <li>VR and 180, 360 Mono, (3D) Stereo videos</li>
+       <li>Vulkan rendering / Graphics API support (Android, Meta Quest…)</li>
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>
        </ul>
