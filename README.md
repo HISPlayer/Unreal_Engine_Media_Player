@@ -61,7 +61,7 @@ We support the following features:
        <li>HTTP Progressive MP4</li>
        <li>Local Video Playback</li>
        <li>Live streaming and video on demand (VOD) support</li>
-       <li>Pixel Streaming Unreal Engine</li>
+       <li>Unreal Pixel Streaming</li>
        <li>Multistream (stream live event from multiple cameras or stream multiple live events simultaneously)</li>
        <li>Windows & MacOS Editor (C++ & Blueprint)</li>
        <li>4K Resolution</li>
