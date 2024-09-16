@@ -72,6 +72,7 @@ We support the following features:
        <li>Stereoscopic 3D videos</li>
        <li>VR and 180, 360 Mono, (3D) Stereo videos</li>
        <li>Vulkan rendering / Graphics API support (Android, Meta Quest…)</li>
+       <li>Vulkan 8K video performance on Meta Quest
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>
        </ul>
@@ -114,11 +115,11 @@ We support the following features:
 
 ## Unreal Engine Versions
 
-| Platform | UE 4.23 | UE 4.27 | UE 5.0 | UE 5.1 | UE 5.2 | UE 5.3 |
-| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| 
-| Windows |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-| MacOS | |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
-| Android | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
+| Platform | UE 4.23 | UE 4.27 | UE 5.0 | UE 5.1 | UE 5.2 | UE 5.3 | UE 5.4|
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| 
+| Windows |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| MacOS | |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
+| Android | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: | 
 | iOS | | :heavy_check_mark:|:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
 | HTML5 Platform | :heavy_check_mark: | | |  | | |  | :heavy_check_mark: |
 
