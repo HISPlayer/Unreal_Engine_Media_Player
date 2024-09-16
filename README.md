@@ -62,7 +62,7 @@ We support the following features:
        <li>Local Video Playback</li>
        <li>Live streaming and video on demand (VOD) support</li>
        <li>Unreal Pixel Streaming</li>
-       <li>HLS and DASH Live Streaming inside Pixel Streaming>
+       <li>Live and VOD Video Streaming inside the Pixel Streaming contents</li> 
        <li>Multistream (stream live event from multiple cameras or stream multiple live events simultaneously)</li>
        <li>Windows & MacOS Editor (C++ & Blueprint)</li>
        <li>4K Resolution</li>
