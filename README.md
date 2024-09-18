@@ -72,7 +72,7 @@ We support the following features:
        <li>Stereoscopic 3D videos</li>
        <li>VR and 180, 360 Mono, (3D) Stereo videos</li>
        <li>Vulkan rendering / Graphics API support (Android, Meta Quest…)</li>
-       <li>Vulkan 8K video performance on Meta Quest
+       <li>Vulkan 8K 360, 180 video performance on Meta Quest
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>
        </ul>
