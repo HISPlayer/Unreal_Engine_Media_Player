@@ -4,7 +4,7 @@
 
 <p align="center"><p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/blob/main/resources/Bring video streaming into Unreal.gif"  width="100%" height="100%"></a>
 
-HISPlayer is the most advanced Video Player SDK for Unreal Engine (UE) to stream both Live and VOD content. HlSPlayer's Unreal Player SDK enables **HLS & DASH streaming** inside your games and metaverses on **Android**, **iOS**, **MacOS**, **HTML5** / **WebGL** and **Windows PC** as well as for the most popular VR/AR headsets such as Meta Quest, XREAL, Pico or HTC Vive.
+HISPlayer is the most advanced Video Player SDK for Unreal Engine (UE) to stream both Live and VOD content. HlSPlayer's Unreal Player SDK enables **HLS & DASH streaming formats** inside your games and metaverses on **Android**, **iOS**, **MacOS**, **HTML5** / **WebGL** and **Windows PC** as well as for the most popular VR/AR headsets such as Meta Quest, XREAL, Pico or HTC Vive.
 Our SDK will allow you to include video content inside your games, securing at the same time the best video quality thanks to technologies like our advanced Adaptive Bitrate (ABR) technology.
 
 This repository showcases the HlSPlayer's features list as well as the supported platforms. If you want to try a demo of the latest player library, please contact us at our [website](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/)
