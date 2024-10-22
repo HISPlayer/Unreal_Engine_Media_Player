@@ -68,6 +68,7 @@ We support the following features:
        <li>Live Video Streaming inside Pixel Streaming content</li> 
        <li>VOD Video Streaming inside Pixel Streaming projects</li>
        <li>Multiple video streaming (stream multiple camera angles or multiple live events simultaneously)</li>
+       <li>Multiview
        <li>Windows & MacOS Editor (C++ & Blueprint)</li>
        <li>4K Resolution</li>
        <li>8K Resolution</li>
