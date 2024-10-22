@@ -74,7 +74,7 @@ We support the following features:
        <li>8K Resolution</li>
        <li>Up to 60 Frames Per Second (FPS)</li>
        <li>Rendering Videos on 3D Objects</li>
-       <li>VR and 180, 360 8K, (3D) Stereoscopic videos</li>
+       <li>VR and 180, 360 (3D) Stereoscopic 8K videos</li>
        <li>Vulkan rendering / Graphics API (Android, Meta Quest…)</li>
        <li>Vulkan 8K video performance on Meta Quest
        <li>Low Latency HLS (LL HLS)</li>
