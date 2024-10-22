@@ -4,7 +4,7 @@
 
 <p align="center"><p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/blob/main/resources/Bring video streaming into Unreal.gif"  width="100%" height="100%"></a>
 
-HISPlayer is the most advanced video streaming player for Unreal Engine (UE) for both VOD and Live contents. HlSPlayer plugin enables **HLS & DASH streaming** inside your games and metaverses on **Android**, **iOS**, **MacOS**, **HTML5** / **Web** and **Windows PC** as well as for the most popular VR/AR headsets such as Oculus / Meta Quest, Pico or HTC Vive.
+HISPlayer is the most advanced video streaming player for Unreal Engine (UE) for both VOD and Live contents. HlSPlayer plugin enables **HLS & DASH streaming** inside your games and metaverses on **Android**, **iOS**, **MacOS**, **HTML5** / **Web** and **Windows PC** as well as for the most popular VR/AR headsets such as Meta Quest, XREAL, Pico or HTC Vive.
 Our Plugin will allow you to include video contents inside your games, securing at the same time the best video quality thanks to technologies like our advanced Adaptive Bitrate (ABR) technology.
 
 This repository showcases the HlSPlayer's features list as well as the supported platforms. If you want to try a demo of the latest player library, please contact us at our [website](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/)
@@ -111,6 +111,7 @@ We support the following features:
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: |
 | MacOS | Metal | :heavy_check_mark: |  |  |
 | Android | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Meta Quest | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | iOS | Metal | :heavy_check_mark: |  |  |
 | HTML5 | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: | 
 
@@ -123,6 +124,7 @@ We support the following features:
 | Windows |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | MacOS | |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | Android | | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: | 
+| Meta Quest| | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: | 
 | iOS | | :heavy_check_mark:|:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
 | HTML5 Platform | :heavy_check_mark: | | |  | | |  | :heavy_check_mark: |
 
