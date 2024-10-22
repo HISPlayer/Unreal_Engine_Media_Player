@@ -4,8 +4,8 @@
 
 <p align="center"><p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/blob/main/resources/Bring video streaming into Unreal.gif"  width="100%" height="100%"></a>
 
-HISPlayer is the most advanced video streaming player for Unreal Engine (UE) for both VOD and Live contents. HlSPlayer plugin enables **HLS & DASH streaming** inside your games and metaverses on **Android**, **iOS**, **MacOS**, **HTML5** / **Web** and **Windows PC** as well as for the most popular VR/AR headsets such as Meta Quest, XREAL, Pico or HTC Vive.
-Our Plugin will allow you to include video contents inside your games, securing at the same time the best video quality thanks to technologies like our advanced Adaptive Bitrate (ABR) technology.
+HISPlayer is the most advanced Video Player SDK for Unreal Engine (UE) to stream both Live and VOD content. HlSPlayer's Unreal Player SDK enables **HLS & DASH streaming** inside your games and metaverses on **Android**, **iOS**, **MacOS**, **HTML5** / **WebGL** and **Windows PC** as well as for the most popular VR/AR headsets such as Meta Quest, XREAL, Pico or HTC Vive.
+Our SDK will allow you to include video content inside your games, securing at the same time the best video quality thanks to technologies like our advanced Adaptive Bitrate (ABR) technology.
 
 This repository showcases the HlSPlayer's features list as well as the supported platforms. If you want to try a demo of the latest player library, please contact us at our [website](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/)
 
@@ -14,7 +14,7 @@ This repository showcases the HlSPlayer's features list as well as the supported
 ## 📣NEW!: ✨ 
 >**HISPlayer Video Upload and Hosting**
 >
->HISPlayer now allows you to upload and host your local video files directly from your computer and convert them into HLS/DASH streams. Then you can embed and play them with our Unreal Engine Streaming Player SDK inside your Unreal Engine games and apps across multiple platforms. With this powerful feature, it is now easier than ever before to include video streaming inside your Unreal (UE) projects.
+>HISPlayer now allows you to upload and host your local video files directly from your computer and convert them into HLS/DASH streams. Then you can embed and play them with our Unreal Engine Video Player SDK inside your Unreal Engine games and apps across multiple platforms. With this powerful feature, it is now easier than ever before to include video streaming inside your Unreal (UE) projects.
 >
 >We help you with the full end-to-end setup, **[start your FREE trial here!](https://dashboard.hisplayer.com/signup)**
 
@@ -22,7 +22,7 @@ This repository showcases the HlSPlayer's features list as well as the supported
 
 ## Custom Development
 
-Our Unreal Engine video streaming plugin is completely customizable, allowing you to request any desired functionality. If you require specific, advanced features and premium customer support, please [contact us here](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/).
+Our Unreal Engine Video Streaming SDK is completely customizable, allowing you to request any desired functionality. If you require specific, advanced features and premium customer support, please [contact us here](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/).
 
 <p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HISPlayer/Unreal_Engine_Media_Player/blob/main/resources/streamvideounreal.gif"  width="80%" height="80%"></a>
 <p align="center">Include high quality video streaming into your Unreal Engine games</p>
@@ -41,7 +41,7 @@ Our Unreal Engine video streaming plugin is completely customizable, allowing yo
 
  <br> 
 
-<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video streaming plugin enables the introduction of new exciting use cases inside your Unreal Engine projects, such as live concerts, video items related to the game or new metaverse experiences. The HlSPlayer Media Framework in Unreal Engine. </p>
+<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine Media Player SDK enables the introduction of new exciting use cases inside your Unreal Engine projects, such as live concerts, video items related to the game or new metaverse experiences. </p>
 
 <br>
 
@@ -57,25 +57,25 @@ We support the following features:
      </td>
      <td>
        <ul>
-       <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
-       <li>DRM Protection (Android)</li>
-       <li>Widevine DRM</li>
        <li>HTTP Progressive MP4</li>
        <li>Local Video Playback</li>
-       <li>Live streaming and video on demand (VOD) support</li>
-       <li>Unreal Pixel Streaming</li>
+       <li>HLS & DASH Video Streaming</li> 
+       <li>Advanced ABR (Adaptive Bitrate) control</li>
+       <li>DRM Protection (Android & Meta Quest)</li>
+       <li>Widevine DRM</li>
+       <li>Live streaming and video on demand (VOD)</li>
+       <li>Pixel Streaming Unreal Engine</li>
        <li>Live Video Streaming inside Pixel Streaming content</li> 
        <li>VOD Video Streaming inside Pixel Streaming projects</li>
-       <li>Multistream (stream live event from multiple cameras or stream multiple live events simultaneously)</li>
+       <li>Multiple video streaming (stream multiple camera angles or multiple live events simultaneously)</li>
        <li>Windows & MacOS Editor (C++ & Blueprint)</li>
        <li>4K Resolution</li>
-        <li>8K Resolution</li>
+       <li>8K Resolution</li>
        <li>Up to 60 Frames Per Second (FPS)</li>
        <li>Rendering Videos on 3D Objects</li>
-       <li>Stereoscopic 3D videos</li>
-       <li>VR and 180, 360 Mono, (3D) Stereo videos</li>
-       <li>Vulkan rendering / Graphics API support (Android, Meta Quest…)</li>
-       <li>Vulkan 8K 360, 180 video performance on Meta Quest
+       <li>VR and 180, 360 8K, (3D) Stereoscopic videos</li>
+       <li>Vulkan rendering / Graphics API (Android, Meta Quest…)</li>
+       <li>Vulkan 8K video performance on Meta Quest
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>
        </ul>
