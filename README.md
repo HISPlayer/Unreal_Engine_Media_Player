@@ -79,7 +79,7 @@ We support the following features:
        <li>Vulkan 8K video performance on Meta Quest
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>
-       <li>Video Platform to Host your videos</li>
+       <li>Video Hosting</li>
        </ul>
      </td>
         <tr>
