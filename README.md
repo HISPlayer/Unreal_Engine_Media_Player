@@ -11,7 +11,7 @@ This repository showcases the HlSPlayer's features list as well as the supported
 
 <br>
 
-## 📣NEW!: ✨ 
+### :rocket: NEW! :rocket:
 >**HISPlayer Video Upload and Hosting**
 >
 >HISPlayer allows you to upload and host any video files from your computer and convert them into HLS/DASH streams that can be played with our [free](https://github.com/HISPlayer/Unreal_Engine_Media_Player/releases/tag/v2.8.2) Unreal Engine Video Player SDK inside your apps. With this powerful feature, it is now easier than ever before to include video streaming inside your Unreal (UE) projects.
