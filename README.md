@@ -4,17 +4,17 @@
 
 <p align="center"><p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/blob/main/resources/Bring video streaming into Unreal.gif"  width="100%" height="100%"></a>
 
-HISPlayer is the most advanced Video Player SDK for Unreal Engine (UE) to stream both Live and VOD content. HlSPlayer's Unreal Player SDK enables **HLS & DASH video streaming** inside your games and metaverses on **Android**, **iOS**, **MacOS**, **HTML5** / **WebGL** and **Windows PC** as well as for the most popular VR/AR headsets such as Meta Quest, XREAL, Pico or HTC Vive.
+HISPlayer is the most advanced Unreal Engine Video Player SDK to stream both Live and VOD content. It enables **HLS & DASH video streaming** inside your games, metaverses and XR apps on **Android**, **iOS**, **MacOS**, **HTML5** / **WebGL** and **Windows PC** as well as for the most popular VR/AR headsets such as Meta Quest, XREAL, Pico or HTC Vive.
 Our SDK will allow you to include premium video content inside your games, securing at the same time the best video quality thanks to technologies like our advanced Adaptive Bitrate (ABR) technology.
 
-This repository showcases the HlSPlayer's features list as well as the supported platforms. If you want to try a demo of the latest player library, please contact us at our [website](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/)
+This repository showcases the HlSPlayer's features list as well as the supported platforms. If you want to try a demo of the latest Unreal player library, please contact us at our [website](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/)
 
 <br>
 
 ## 📣NEW!: ✨ 
 >**HISPlayer Video Upload and Hosting**
 >
->HISPlayer now allows you to upload and host your local video files directly from your computer and convert them into HLS/DASH streams. Then you can embed and play them with our Unreal Engine Video Player SDK inside your Unreal Engine games and apps across multiple platforms. With this powerful feature, it is now easier than ever before to include video streaming inside your Unreal (UE) projects.
+>HISPlayer allows you to upload and host any video files from your computer and convert them into HLS/DASH streams that can be played with our Unreal Engine Video Player SDK inside your UE apps across multiple platforms. With this powerful feature, it is now easier than ever before to include video streaming inside your Unreal (UE) projects.
 >
 >We help you with the full end-to-end setup, **[start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
 
@@ -61,9 +61,9 @@ We support the following features:
        <li>Local Video Playback</li>
        <li>HLS & DASH Video Streaming</li> 
        <li>Advanced ABR (Adaptive Bitrate) control</li>
-       <li>DRM Protection (Android & Meta Quest)</li>
+       <li>DRM Content Protection (Android & Meta Quest)</li>
        <li>Widevine DRM</li>
-       <li>Live streaming and video on demand (VOD)</li>
+       <li>Live and VOD video streaming</li>
        <li>Pixel Streaming Unreal Engine</li>
        <li>Live Video Streaming inside Pixel Streaming content</li> 
        <li>VOD Video Streaming inside Pixel Streaming projects</li>
