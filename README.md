@@ -117,20 +117,6 @@ We support the following features:
 | iOS | Metal | :heavy_check_mark: |  |  |
 | HTML5 | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: | 
 
-<br>
-
-## Unreal Engine Versions
-
-| Platform | UE 4.23 | UE 5.0 | UE 5.1 | UE 5.2 | UE 5.3 | UE 5.4|
-| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| 
-| Windows |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-| MacOS | |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
-| Android | | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: | 
-| Meta Quest| | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: | 
-| iOS | | :heavy_check_mark:|:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
-| HTML5 Platform | :heavy_check_mark: | | |  | | |  | :heavy_check_mark: |
-
-
 
 <br>
 
