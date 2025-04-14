@@ -76,7 +76,7 @@ We support the following features:
        <li>Rendering Videos on 3D Objects</li>
        <li>VR and 180, 360 (3D) Stereoscopic 8K videos</li>
        <li>Android Vulkan rendering / Graphics API</li>
-       <li>Vulkan 360, 8K video performance on Meta Quest
+       <li>Android Vulkan 360, 8K video performance with the highest FPS on Meta Quest
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>
        <li>Video Hosting</li>
