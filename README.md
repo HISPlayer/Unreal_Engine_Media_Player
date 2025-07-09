@@ -1,8 +1,8 @@
-<h1 style="line-height:2;"><p align="center"><a href="https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unreal_Plugin/blob/main/resources/UE logos.png"  width="100%" height="100%"></a>
+<h1 style="line-height:2;"><p align="center"><a href="https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/" target="_blank"><img src="https://github.com/HisPlayer/HisPlayer_Unreal_Plugin/blob/main/resources/UE logos.png"></a>
 </p></h1>
 </br>
 
-<p align="center"><p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/blob/main/resources/Bring video streaming into Unreal.gif"  width="100%" height="100%"></a>
+<p align="center"><p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/blob/main/resources/Bring video streaming into Unreal.gif"></a>
 
 HISPlayer is the most advanced Unreal Engine Video Player SDK to stream both Live and VOD content. It enables **HLS** & **DASH** video streaming inside your games, metaverses and XR apps on **Android**, **iOS**, **MacOS**, **HTML5** / **WebGL** and **Windows PC** as well as for the most popular VR/AR headsets such as Meta Quest, XREAL, or HTC Vive. 
 
