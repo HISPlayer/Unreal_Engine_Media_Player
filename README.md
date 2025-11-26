@@ -79,6 +79,7 @@ We support the following features:
        <li>Android Vulkan 360, 8K video performance with the highest FPS on Meta Quest
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>
+       <li>GPU-accelerated video playback</li>
        <li>Dolby Atmos (Dolby AC3, Dolby EAC3)</li>
        <li>Audio PCM Data</li>
        <li>Audio track selection</li>
