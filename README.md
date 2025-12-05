@@ -63,7 +63,7 @@ We support the following features:
        <li>HLS & DASH Video Streaming</li> 
        <li>Advanced ABR (Adaptive Bitrate) control</li>
        <li>DRM Content Protection (Android & Meta Quest)</li>
-       <li>Widevine DRM</li>
+       <li>Widevine DRM L1 on Meta Quest</li>
        <li>Live and VOD video streaming</li>
        <li>Pixel Streaming Unreal Engine</li>
        <li>Live Video Streaming inside Pixel Streaming content</li> 
