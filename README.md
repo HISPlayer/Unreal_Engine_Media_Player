@@ -15,7 +15,7 @@ This repository showcases the HlSPlayer's features list as well as the supported
 
 ### :rocket: HISPlayer Video Hosting Platform :rocket:
 
->Drag and drop any video files from your computer, converting them into HLS/DASH video streams that can be played with our **[FREE](https://github.com/HISPlayer/Unreal_Engine_Media_Player/releases/tag/v2.9.0.1) Unreal Engine Video Player Plugin** inside your UE apps. With this powerful feature, it is now easier than ever before to include video streaming inside your Unreal (UE) projects.
+>Drag and drop any video files from your computer, converting them into adaptive HLS / DASH video streaming formats. Stream all these videos directly inside your UE apps with our **[Unreal Engine Video Player](https://github.com/HISPlayer/Unreal_Engine_Media_Player/releases/tag/v2.9.0.1)**. It is now easier than ever before to include video streaming inside your Unreal (UE) projects.
 >
 >We help you with the full end-to-end setup, **[start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
 
