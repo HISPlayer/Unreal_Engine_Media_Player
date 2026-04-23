@@ -62,25 +62,29 @@ We support the following features:
        <li>Local Video Playback</li>
        <li>HLS & DASH Video Streaming</li> 
        <li>Advanced ABR (Adaptive Bitrate) control</li>
-       <li>DRM Content Protection (Android & Meta Quest)</li>
+       <li>DRM Content Protection (Android)</li>
        <li>Widevine DRM L1 on Meta Quest</li>
        <li>Live and VOD video streaming</li>
        <li>Pixel Streaming Unreal Engine</li>
        <li>Live Video Streaming inside Pixel Streaming content</li> 
        <li>VOD Video Streaming inside Pixel Streaming projects</li>
-       <li>Multiple video streaming (stream multiple camera angles or multiple live events simultaneously)</li>
-       <li>Multiview
+       <li>Multistream (stream multiple videos simultaneously)</li>
+       <li>Multistream synchronisation (sync multiple streams)</li>
+       <li>Multiview (stream multiple camera angles or live events)</li>
        <li>Windows & MacOS Editor (C++ & Blueprint)</li>
-       <li>4K Resolution</li>
-       <li>8K Resolution</li>
+       <li>4K Resolution Video</li>
+       <li>8K Resolution Video</li>
        <li>Rendering Videos on 3D Objects</li>
-       <li>VR and 180, 360 (3D) Stereoscopic 8K videos</li>
-       <li>Android Vulkan rendering / Graphics API</li>
-       <li>Android Vulkan 360, 8K video performance with the highest FPS on Meta Quest
+       <li>VR, 180, 360, 3D stereo, & 2D mono video</li>
+       <li>3D stereoscopic video top-bottom and side-by-side</li>
+       <li>Android Vulkan Graphics API</li>
+       <li>Android Vulkan 360, 8K video performance at the highest FPS</li>
+       <li>Direct to GPU texture video rendering with Vulkan</li>
+       <li>Direct to Android surface video rendering</li>
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>
        <li>GPU-accelerated video playback</li>
-       <li>Dolby Atmos (Dolby AC3, Dolby EAC3)</li>
+       <li>Dolby Atmos and Dolby Audio (Dolby AC3, Dolby EAC3)</li>
        <li>Audio PCM Data</li>
        <li>Audio track selection</li>
        <li>Video Hosting</li>
