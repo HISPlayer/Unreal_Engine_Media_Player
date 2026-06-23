@@ -6,16 +6,16 @@
 
 HISPlayer is the most advanced Unreal Engine Video Player SDK to stream both Live and VOD content. It enables **HLS** & **DASH** video streaming inside your games, metaverses and XR apps on **Android**, **iOS**, **MacOS**, **HTML5** / **WebGL** and **Windows PC** as well as for the most popular VR/AR headsets such as Meta Quest, Galaxy XR, Pico, XREAL, or HTC Vive. 
 
-Our Unreal Video Player is hardware accelerated to provide the top quality video streaming performance on every device. It supports regular or 180-degree, 360-degree, 3D stereoscopic videos up to 8K resolution with the highest FPS.
+Our Unreal Video Player is hardware-accelerated to provide the top-quality video streaming performance on every device. It supports regular or 180-degree, 360-degree, and 3D stereoscopic videos up to 8K resolution with the highest FPS.
 Moreover, it allows you to integrate DRM-protected premium video content into your UE projects while ensuring the highest video quality, thanks to our in-house developed advanced Adaptive Bitrate (ABR) technology.
 
-This repository showcases the HlSPlayer's features list as well as the supported platforms. If you want to try a demo of the latest Unreal player library, please contact us at our [website](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/)
+This repository showcases the HlSPlayer's feature list as well as the supported platforms. If you want to try a demo of the latest Unreal player library, please contact us at our [website](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/)
 
 <br>
 
 ### :rocket: HISPlayer Video Hosting Platform :rocket:
 
->Drag and drop any video files from your computer, converting them into adaptive HLS / DASH video streaming formats. Stream all these videos directly inside your UE apps with our **[Unreal Engine Video Player](https://github.com/HISPlayer/Unreal_Engine_Media_Player/releases/tag/v2.9.0.1)**. It is now easier than ever before to include video streaming inside your Unreal (UE) projects.
+>Drag and drop any video files from your computer, converting them into adaptive HLS / DASH video streaming formats. Stream all these videos directly inside your UE apps with our **[FREE Unreal Engine Video Player](https://github.com/HISPlayer/Unreal_Engine_Media_Player/releases/tag/v2.10.1)**. It is now easier than ever before to include video streaming inside your Unreal (UE) projects.
 >
 >We help you with the full end-to-end setup, **[start your FREE trial here!](https://hisplayer.com/unity-asset-store-saas-registration/)**
 
@@ -124,7 +124,9 @@ We support the following features:
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: |
 | MacOS | Metal | :heavy_check_mark: |  |  |
 | Android | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Meta Quest | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Meta Quest | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | [Widevine L1 DRM](https://hisplayer.com/ue-meta-quest-with-widevine-l1-drm/) |
+| Android XR | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Pico | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | iOS | Metal | :heavy_check_mark: |  |  |
 | HTML5 | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: | 
 
