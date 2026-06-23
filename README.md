@@ -87,7 +87,7 @@ We support the following features:
        <li>Optimized H-264, H-265 Video Codecs</li>
        <li>AV1 Video Codec</li>
        <li>Apple MV-HEVC video playback on Meta Quest</li>
-       <li>Dolby Atmos and Dolby Audio (Dolby AC3, Dolby EAC3)</li>
+       <li>Dolby Atmos and Dolby Audio (Dolby AC3, Dolby EAC3, Dolby AC4)</li>
        <li>Audio PCM Data</li>
        <li>Audio track selection</li>
        <li>Optimized for OpenXR</li>
