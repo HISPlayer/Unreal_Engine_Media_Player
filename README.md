@@ -60,7 +60,8 @@ We support the following features:
        <ul>
        <li>HTTP Progressive MP4</li>
        <li>Local Video Playback</li>
-       <li>HLS & DASH Video Streaming</li> 
+       <li>HLS & DASH Video Streaming</li>
+       <li>WebRTC Real-time streaming</li> 
        <li>Advanced ABR (Adaptive Bitrate) control</li>
        <li>DRM Content Protection (Android)</li>
        <li>Widevine DRM L1 on Meta Quest</li>
