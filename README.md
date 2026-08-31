@@ -60,6 +60,7 @@ We support the following features:
        <ul>
        <li>HTTP Progressive MP4</li>
        <li>Local Video Playback</li>
+       <li>Download & offline playback with Widevine DRM</li>
        <li>HLS & DASH Video Streaming</li>
        <li>WebRTC Real-time streaming</li> 
        <li>Advanced ABR (Adaptive Bitrate) control</li>
@@ -84,7 +85,7 @@ We support the following features:
        <li>Direct to Android surface video rendering</li>
        <li>Low Latency HLS (LL HLS)</li>
        <li>Low Latency DASH (LL DASH)</li>
-       <li>GPU-accelerated video playback</li>
+       <li>GPU-accelerated ultra-fast video playback</li>
        <li>Optimized H-264, H-265 Video Codecs</li>
        <li>AV1 Video Codec</li>
        <li>Apple MV-HEVC video playback on Meta Quest</li>
