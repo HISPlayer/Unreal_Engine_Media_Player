@@ -4,9 +4,9 @@
 
 <p align="center"><p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HisPlayer/HISPlayer_Unreal_Video_Streaming_Plugin/blob/main/resources/Bring video streaming into Unreal.gif"></a>
 
-HISPlayer is the most advanced Unreal Engine Video Player SDK to stream both Live and VOD content. It enables **HLS** & **DASH** video streaming inside your games, metaverses and XR apps on **Android**, **iOS**, **MacOS**, **HTML5** / **WebGL** and **Windows PC** as well as for the most popular VR/AR headsets such as Meta Quest, Galaxy XR, Pico, XREAL, or HTC Vive. 
+HISPlayer is the most advanced Unreal Engine Video Player SDK to stream both Live and VOD content. It enables **HLS** & **DASH** video streaming inside your games, metaverses, and XR apps on **Android**, **iOS**, **macOS**, **HTML5** / **WebGL**, and **Windows PC**, as well as for the most popular VR/AR headsets such as Meta Quest, Galaxy XR, Pico, XREAL, or HTC Vive. 
 
-Our Unreal Video Player is hardware-accelerated to provide the top-quality video streaming performance on every device. It supports regular or 180-degree, 360-degree, and 3D stereoscopic videos up to 8K resolution with the highest FPS.
+Our Unreal Video Player is hardware-accelerated to provide the top-quality video streaming performance on every device. It supports regular, 180-degree, 360-degree, and 3D stereoscopic videos up to 8K resolution with the highest FPS.
 Moreover, it allows you to integrate DRM-protected premium video content into your UE projects while ensuring the highest video quality, thanks to our in-house developed advanced Adaptive Bitrate (ABR) technology.
 
 This repository showcases the HlSPlayer's feature list as well as the supported platforms. If you want to try a demo of the latest Unreal player library, please contact us at our [website](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/)
@@ -26,7 +26,7 @@ This repository showcases the HlSPlayer's feature list as well as the supported 
 Our Unreal Engine Video Streaming Player SDK is completely customizable, allowing you to request any desired functionality. If you require specific, advanced features and premium customer support, please [contact us here](https://hisplayer.com/demo-unrealengine-mediaplayer-sdk-github/).
 
 <p align="center"><a href="https://hisplayer.com/unreal-player-sdk/" target="_blank"><img src="https://github.com/HISPlayer/Unreal_Engine_Media_Player/blob/main/resources/streamvideounreal.gif"  width="80%" height="80%"></a>
-<p align="center">Include high quality video streaming inside your Unreal Engine Games and VR/AR apps</p>
+<p align="center">Include high-quality video streaming inside your Unreal Engine Games and VR/AR apps</p>
 
 
 <br>
@@ -91,6 +91,7 @@ We support the following features:
        <li>Apple MV-HEVC video playback on Meta Quest</li>
        <li>Dolby Atmos and Dolby Audio (Dolby AC3, Dolby EAC3, Dolby AC4)</li>
        <li>Audio PCM Data</li>
+       <li>Ambisonics Audio</li>
        <li>Audio track selection</li>
        <li>Optimized for OpenXR</li>
        <li>Video Hosting</li>
