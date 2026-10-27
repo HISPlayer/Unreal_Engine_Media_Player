@@ -140,7 +140,7 @@ We support the following features:
 
 ## Unreal Engine Versions:
 
-UE 5.4, 5.5, 5.6, 5.7
+UE 5.4, 5.5, 5.6, 5.7, 5.8 +
 
 <br>
 
