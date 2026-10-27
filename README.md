@@ -123,16 +123,17 @@ We support the following features:
 
 ## Supported Platforms
 
-| Platform | Supported Graphics APIs | HLS | DASH | DRM |
-| :-----:| :-----:| :-----:| :-----:| :-----:| 
-| Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: |
-| MacOS | Metal | :heavy_check_mark: |  |  |
-| Android | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Meta Quest | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | [Widevine L1 DRM](https://hisplayer.com/ue-meta-quest-with-widevine-l1-drm/) |
-| Android XR | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Pico | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| iOS | Metal | :heavy_check_mark: |  |  |
-| HTML5 | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: | 
+| Platform | Supported Graphics APIs | HLS | DASH | WebRTC | DRM protection |
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+| Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: |  |
+| MacOS | Metal | :heavy_check_mark: |  |  | |
+| Android | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Meta Quest | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Widevine L1 DRM](https://hisplayer.com/ue-meta-quest-with-widevine-l1-drm/) |
+| Meta VR Glasses | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Widevine L1 DRM](https://hisplayer.com/ue-meta-quest-with-widevine-l1-drm/) |
+| Android XR | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Widevine L1 DRM |
+| Pico | OpenGL ES3, Vulkan | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Widevine L1 DRM |
+| iOS | Metal | :heavy_check_mark: |  |  | |
+| HTML5 | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: | |
 
 
 <br>
