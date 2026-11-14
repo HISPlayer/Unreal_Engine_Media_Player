@@ -73,11 +73,14 @@ We support the following features:
        <li>Multistream (stream multiple videos simultaneously)</li>
        <li>Multistream synchronisation (sync multiple streams)</li>
        <li>Multiview (stream multiple camera angles or live events)</li>
+       <li>Seek to Frame</li>
        <li>Windows & MacOS Editor (C++ & Blueprint)</li>
        <li>4K Resolution Video</li>
        <li>8K Resolution Video</li>
        <li>Rendering Videos on 3D Objects</li>
        <li>VR, 180, 360, 3D stereo, & 2D mono video</li>
+       <li>3D subtitles for stereoscopic video</li>
+       <li>External subtitles</li>
        <li>3D stereoscopic video top-bottom and side-by-side</li>
        <li>Android Vulkan Graphics API</li>
        <li>Android Vulkan 360, 8K video performance at the highest FPS</li>
@@ -88,9 +91,11 @@ We support the following features:
        <li>GPU-accelerated ultra-fast video playback</li>
        <li>Optimized H-264, H-265 Video Codecs</li>
        <li>AV1 Video Codec</li>
-      <li>Apple MV-HEVC 4K per eye video playback on Meta VR and Quest</li>
+      <li>Apple MV-HEVC 4K video playback on Meta VR Glasses and Quest</li>
        <li>Dolby Atmos and Dolby Audio (Dolby AC3, Dolby EAC3, Dolby AC4)</li>
        <li>Audio PCM Data</li>
+       <li>Secure video playback with signed URLs (JWT) </li>
+       <li>HRTF (Head-Related Transfer Function) 3D audio </li>
        <li>Ambisonics Audio</li>
        <li>Audio track selection</li>
        <li>Optimized for OpenXR</li>
