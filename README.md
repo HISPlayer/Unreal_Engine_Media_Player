@@ -95,7 +95,7 @@ We support the following features:
        <li>Dolby Atmos and Dolby Audio (Dolby AC3, Dolby EAC3, Dolby AC4)</li>
        <li>Audio PCM Data</li>
        <li>Secure video playback with signed URLs (JWT) </li>
-       <li>HRTF (Head-Related Transfer Function) 3D audio </li>
+       <li>HRTF (Head-Related Transfer Function) 3D spatiala audio </li>
        <li>Ambisonics Audio</li>
        <li>Audio track selection</li>
        <li>Optimized for OpenXR</li>
